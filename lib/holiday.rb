@@ -90,8 +90,8 @@ holiday_hash.collect do |season, holidays|
     if value.include?("BBQ")
       key
 end 
-end.flatten.compact
-end 
+end
+end.flatten.compact 
 end
 
 
